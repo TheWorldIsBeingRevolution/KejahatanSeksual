@@ -42,9 +42,11 @@ LANGSUNG KABUR
 ## 2. Cari Tempat yg Aman
 PERGI KE TEMPAT YANG AMAN SEPERTI :
 
-A. RUMAH
+A. TEMPAT YANG MENURUT KAMU AMAN
 
-B. KANTOR TERDEKAT
+B. RUMAH
+
+C. KANTOR TERDEKAT
 
 - SEKOLAH
 - DESA
@@ -55,6 +57,7 @@ B. KANTOR TERDEKAT
 Berbicara kepada seseorang yang dipercaya adalah langkah penting yang harus dilakukan. Sebab kamu tak boleh menanggung beban ini seorang diri. Cari seseorang yang kamu percaya.
 
 Berbicara kepada seseorang yang dipercaya adalah langkah penting yang harus dilakukan. Sebab kamu tak boleh menanggung beban ini seorang diri. Cari seseorang yang kamu percaya. Contoh :
+
 - Orang Tua
 - Wali
 - Keluarga
