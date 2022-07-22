@@ -2,16 +2,16 @@ Page | Jika Anda Menjadi Korban Kejahatan Seksual
 
 0 | POST
 
-Github
+# Github
+https://github.com/qp012/KejahatanSeksual/blob/main/0%20Page/Jika%20Anda%20Menjadi%20Korban%20Kejahatan%20Seksual.md
 
-
-
-Wordpress
+# Wordpress
 http://qpqpqp.art.blog/2022/07/22/jika-anda-menjadi-korban-kejahatan-seksual/
 
-
-
 TODO
+
+YLBHI
+LPSK
 
 =========================================
 
